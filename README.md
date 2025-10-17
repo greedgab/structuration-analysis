@@ -3,7 +3,7 @@
 ## Overview
 The Structuration Analysis project aims to analyze various financial strategies using R Markdown. The primary focus is on simulating and visualizing the performance of different investment strategies, including equity, OBPI (Optimal Bond Portfolio Insurance), and CPPI (Constant Proportion Portfolio Insurance).
 
-You can see HTML doc (in french) with the Link 
+-> You can see HTML doc (in french) with the Link 
 
 ## Purpose
 This project provides insights into how different financial strategies perform under various market conditions. By utilizing simulations, we can better understand the risks and returns associated with each strategy.
